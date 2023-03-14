@@ -75,18 +75,18 @@ Det kommer ges muntlig feedback till er i samband med redovisningarna.
 |Alva|1||
 |Liibaan|1||
 |Elliot|1||
-|Mariam|4||
+|Mariam|1||
 ||||
 |Otto|2||
 |Johannes|2||
 |Hannes|2||
 |Gabriel|2||
-|Jonatan|4||
+|Jonatan|2||
 ||||
 |Nelly|3||
 |Pål|3||
 |Harald|3||
 |Daniel|3||
-|Casper|4||
+|Casper|3||
 ||||
 
